@@ -13,8 +13,14 @@ class _LandingScreenState extends State<LandingScreen> {
     return Scaffold(
       body: Column(
         children: [
+          Text(
+            "This is supposed to be landing screen"
+          ),
+
+
           
         ],
+        
       ),
     );
 
