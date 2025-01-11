@@ -4,7 +4,7 @@ A Flutter application designed to help users manage and track their daily expens
 
 ## 📱 Features
 - **Expense Tracking**: Log your daily expenses with ease
-- **Statistics**: To track your expense across the month
+- **Statistic**: To track your expense by the categories across the month
 - **Cloud Sync**: Sync data across multiple devices
 
 ## 📸 Screenshots (Not Available Yet)
