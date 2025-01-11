@@ -1,16 +1,41 @@
-# enseiji_app
+# En Seiji (In development)
 
-A new Flutter project.
+A Flutter application designed to help users manage and track their daily expenses.
 
-## Getting Started
+## 📱 Features
+- **Expense Tracking**: Log your daily expenses with ease
+- **Statistic**: To track your expense by the categories across the month
+- **Cloud Sync**: Sync data across multiple devices
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots (Not Available Yet)
+- 
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ahmrh/enseiji-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd enseiji-app
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Technology
+- **Flutter**: Framework for building the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Contributor
+- **Amry Yahya**: https://github.com/amryyahya
+  
+----
+
+Thank you for trying out En Seiji! We hope it helps you achieve better financial control.
+
+
